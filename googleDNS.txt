@@ -1,0 +1,1509 @@
+No.     Time           Source                Destination           Protocol Length Info
+     49 2.285365000    129.49.194.114        129.49.7.170          DNS      74     Standard query 0x4022  A www.google.com
+
+Frame 49: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: lhtp (1983), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 2.285424000    129.49.194.114        129.49.7.170          DNS      75     Standard query 0x6819  A apis.google.com
+
+Frame 50: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 49077 (49077), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 2.285496000    129.49.194.114        129.49.7.170          DNS      79     Standard query 0xa2c0  A clients5.google.com
+
+Frame 51: 79 bytes on wire (632 bits), 79 bytes captured (632 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 47851 (47851), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 2.287029000    129.49.7.170          129.49.194.114        DNS      170    Standard query response 0x4022  A 173.194.68.104 A 173.194.68.105 A 173.194.68.106 A 173.194.68.99 A 173.194.68.103 A 173.194.68.147
+
+Frame 52: 170 bytes on wire (1360 bits), 170 bytes captured (1360 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: lhtp (1983)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 2.287625000    129.49.7.170          129.49.194.114        DNS      272    Standard query response 0x6819  CNAME plus.l.google.com A 74.125.226.7 A 74.125.226.3 A 74.125.226.1 A 74.125.226.0 A 74.125.226.4 A 74.125.226.8 A 74.125.226.14 A 74.125.226.5 A 74.125.226.9 A 74.125.226.6 A 74.125.226.2
+
+Frame 53: 272 bytes on wire (2176 bits), 272 bytes captured (2176 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 49077 (49077)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 2.288468000    129.49.7.170          129.49.194.114        DNS      279    Standard query response 0xa2c0  CNAME clients.l.google.com A 74.125.226.0 A 74.125.226.9 A 74.125.226.1 A 74.125.226.4 A 74.125.226.7 A 74.125.226.14 A 74.125.226.3 A 74.125.226.6 A 74.125.226.5 A 74.125.226.8 A 74.125.226.2
+
+Frame 54: 279 bytes on wire (2232 bits), 279 bytes captured (2232 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 47851 (47851)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 2.293903000    129.49.194.114        129.49.7.170          DNS      85     Standard query 0x6f22  A lh3.googleusercontent.com
+
+Frame 55: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: tdaccess (2910), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 2.294055000    129.49.194.114        129.49.7.170          DNS      75     Standard query 0x308f  A plus.google.com
+
+Frame 56: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 54089 (54089), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 2.294191000    129.49.194.114        129.49.7.170          DNS      75     Standard query 0xb0e0  A ssl.gstatic.com
+
+Frame 57: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 22670 (22670), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 2.324218000    129.49.7.170          129.49.194.114        DNS      162    Standard query response 0x6f22  CNAME googlehosted.l.googleusercontent.com A 74.125.226.42 A 74.125.226.43 A 74.125.226.44
+
+Frame 58: 162 bytes on wire (1296 bits), 162 bytes captured (1296 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: tdaccess (2910)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 2.324589000    129.49.194.114        129.49.7.170          DNS      75     Standard query 0xfe53  A www.gstatic.com
+
+Frame 59: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 16274 (16274), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 2.330505000    129.49.7.170          129.49.194.114        DNS      251    Standard query response 0x308f  A 74.125.226.14 A 74.125.226.5 A 74.125.226.7 A 74.125.226.4 A 74.125.226.6 A 74.125.226.0 A 74.125.226.9 A 74.125.226.1 A 74.125.226.8 A 74.125.226.3 A 74.125.226.2
+
+Frame 60: 251 bytes on wire (2008 bits), 251 bytes captured (2008 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 54089 (54089)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 2.330525000    129.49.7.170          129.49.194.114        DNS      139    Standard query response 0xb0e0  A 74.125.226.23 A 74.125.226.15 A 74.125.226.24 A 74.125.226.31
+
+Frame 61: 139 bytes on wire (1112 bits), 139 bytes captured (1112 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 22670 (22670)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 2.335522000    129.49.7.170          129.49.194.114        DNS      139    Standard query response 0xfe53  A 74.125.226.23 A 74.125.226.15 A 74.125.226.31 A 74.125.226.24
+
+Frame 62: 139 bytes on wire (1112 bits), 139 bytes captured (1112 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 16274 (16274)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    210 2.512727000    129.49.194.114        129.49.7.170          DNS      84     Standard query 0x77a9  A translate.googleapis.com
+
+Frame 210: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 22686 (22686), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    218 2.517354000    129.49.7.170          129.49.194.114        DNS      134    Standard query response 0x77a9  CNAME googleapis.l.google.com A 173.194.68.95
+
+Frame 218: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 22686 (22686)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    289 2.643290000    129.49.194.114        129.49.7.170          DNS      83     Standard query 0x9ce2  A safebrowsing.google.com
+
+Frame 289: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 16979 (16979), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    290 2.644972000    129.49.7.170          129.49.194.114        DNS      278    Standard query response 0x9ce2  CNAME sb.l.google.com A 74.125.228.232 A 74.125.228.228 A 74.125.228.233 A 74.125.228.226 A 74.125.228.231 A 74.125.228.230 A 74.125.228.238 A 74.125.228.227 A 74.125.228.225 A 74.125.228.224 A 74.125.228.229
+
+Frame 290: 278 bytes on wire (2224 bits), 278 bytes captured (2224 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 16979 (16979)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+    439 3.770111000    129.49.194.114        129.49.7.170          DNS      73     Standard query 0xe366  A www.gmail.com
+
+Frame 439: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 34565 (34565), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+    440 3.771846000    129.49.7.170          129.49.194.114        DNS      158    Standard query response 0xe366  CNAME mail.google.com CNAME googlemail.l.google.com A 74.125.226.22 A 74.125.226.21
+
+Frame 440: 158 bytes on wire (1264 bits), 158 bytes captured (1264 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 34565 (34565)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2443 7.774881000    129.49.194.114        129.49.7.170          DNS      76     Standard query 0xf8c5  A www.facebook.com
+
+Frame 2443: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 54071 (54071), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2444 7.774918000    129.49.194.114        8.8.8.8               DNS      76     Standard query 0xf8c5  A www.facebook.com
+
+Frame 2444: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: 54071 (54071), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2445 7.779220000    129.49.194.114        129.49.7.170          DNS      84     Standard query 0x3688  A 2-edge-chat.facebook.com
+
+Frame 2445: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 34801 (34801), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2446 7.782057000    129.49.194.114        129.49.7.170          DNS      89     Standard query 0x43e6  A fbcdn-photos-a-a.akamaihd.net
+
+Frame 2446: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: afs (1483), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2447 7.782485000    129.49.194.114        129.49.7.170          DNS      89     Standard query 0xc70e  A fbcdn-photos-b-a.akamaihd.net
+
+Frame 2447: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 43118 (43118), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2448 7.782970000    129.49.194.114        129.49.7.170          DNS      88     Standard query 0x43c9  A fbcdn-profile-a.akamaihd.net
+
+Frame 2448: 88 bytes on wire (704 bits), 88 bytes captured (704 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 52058 (52058), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2449 7.783383000    129.49.194.114        129.49.7.170          DNS      79     Standard query 0xd45f  A static.xx.fbcdn.net
+
+Frame 2449: 79 bytes on wire (632 bits), 79 bytes captured (632 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 14171 (14171), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2452 7.796572000    129.49.7.170          129.49.194.114        DNS      116    Standard query response 0xf8c5  CNAME star.c10r.facebook.com A 31.13.71.1
+
+Frame 2452: 116 bytes on wire (928 bits), 116 bytes captured (928 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 54071 (54071)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2453 7.796594000    129.49.7.170          129.49.194.114        DNS      124    Standard query response 0x3688  CNAME star.c10r.facebook.com A 31.13.71.1
+
+Frame 2453: 124 bytes on wire (992 bits), 124 bytes captured (992 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 34801 (34801)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2455 7.797438000    129.49.194.114        129.49.7.170          DNS      89     Standard query 0x123e  A fbcdn-photos-h-a.akamaihd.net
+
+Frame 2455: 89 bytes on wire (712 bits), 89 bytes captured (712 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 59050 (59050), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2456 7.797631000    8.8.8.8               129.49.194.114        DNS      116    Standard query response 0xf8c5  CNAME star.c10r.facebook.com A 31.13.73.1
+
+Frame 2456: 116 bytes on wire (928 bits), 116 bytes captured (928 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 8.8.8.8 (8.8.8.8), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 54071 (54071)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2457 7.797654000    129.49.194.114        8.8.8.8               ICMP     144    Destination unreachable (Port unreachable)
+
+Frame 2457: 144 bytes on wire (1152 bits), 144 bytes captured (1152 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 8.8.8.8 (8.8.8.8)
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+   2458 7.799331000    129.49.7.170          129.49.194.114        DNS      118    Standard query response 0xd45f  CNAME scontent.xx.fbcdn.net A 31.13.71.7
+
+Frame 2458: 118 bytes on wire (944 bits), 118 bytes captured (944 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 14171 (14171)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2459 7.799745000    129.49.7.170          129.49.194.114        DNS      264    Standard query response 0x43c9  CNAME a2047.dspl.akamai.net A 198.144.127.80 A 198.144.127.75 A 198.144.127.83 A 198.144.127.74 A 198.144.127.32 A 198.144.127.64 A 198.144.127.16 A 198.144.127.25 A 198.144.127.27
+
+Frame 2459: 264 bytes on wire (2112 bits), 264 bytes captured (2112 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 52058 (52058)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2460 7.800939000    129.49.7.170          129.49.194.114        DNS      209    Standard query response 0x123e  CNAME fbcdn-photos-h-a.akamaihd.net.edgesuite.net CNAME a1990.dspmm1.akamai.net A 23.0.163.51 A 23.0.163.41
+
+Frame 2460: 209 bytes on wire (1672 bits), 209 bytes captured (1672 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 59050 (59050)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2461 7.800963000    129.49.7.170          129.49.194.114        DNS      208    Standard query response 0x43e6  CNAME fbcdn-photos-a-a.akamaihd.net.edgesuite.net CNAME a995.dspmm1.akamai.net A 23.0.163.43 A 23.0.163.58
+
+Frame 2461: 208 bytes on wire (1664 bits), 208 bytes captured (1664 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: afs (1483)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2462 7.800980000    129.49.7.170          129.49.194.114        DNS      209    Standard query response 0xc70e  CNAME fbcdn-photos-b-a.akamaihd.net.edgesuite.net CNAME a1791.dspmm1.akamai.net A 23.0.163.27 A 23.0.163.57
+
+Frame 2462: 209 bytes on wire (1672 bits), 209 bytes captured (1672 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 43118 (43118)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2467 7.802686000    129.49.194.114        129.49.7.170          DNS      85     Standard query 0x1eaa  A fbexternal-a.akamaihd.net
+
+Frame 2467: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 53064 (53064), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2468 7.803072000    129.49.194.114        129.49.7.170          DNS      78     Standard query 0x1506  A pixel.facebook.com
+
+Frame 2468: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 56139 (56139), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2469 7.803351000    129.49.194.114        129.49.7.170          DNS      81     Standard query 0xb714  A scontent.xx.fbcdn.net
+
+Frame 2469: 81 bytes on wire (648 bits), 81 bytes captured (648 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 48083 (48083), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2476 7.808954000    129.49.7.170          129.49.194.114        DNS      199    Standard query response 0x1eaa  CNAME fbexternal-a.akamaihd.net.edgesuite.net CNAME a1531.dsw4.akamai.net A 129.49.1.70 A 129.49.1.73
+
+Frame 2476: 199 bytes on wire (1592 bits), 199 bytes captured (1592 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 53064 (53064)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2478 7.809512000    129.49.7.170          129.49.194.114        DNS      137    Standard query response 0x1506  CNAME star.facebook.com CNAME star.c10r.facebook.com A 31.13.71.1
+
+Frame 2478: 137 bytes on wire (1096 bits), 137 bytes captured (1096 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 56139 (56139)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2479 7.809664000    129.49.7.170          129.49.194.114        DNS      97     Standard query response 0xb714  A 31.13.71.7
+
+Frame 2479: 97 bytes on wire (776 bits), 97 bytes captured (776 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 48083 (48083)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2702 9.132166000    129.49.194.114        129.49.7.170          DNS      90     Standard query 0x9d70  A fbcdn-sphotos-d-a.akamaihd.net
+
+Frame 2702: 90 bytes on wire (720 bits), 90 bytes captured (720 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 48563 (48563), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2709 9.135424000    129.49.7.170          129.49.194.114        DNS      323    Standard query response 0x9d70  CNAME fbcdn-sphotos-d-a.akamaihd.net.edgesuite.net CNAME a1404.dspw41.akamai.net A 184.51.126.144 A 184.51.126.152 A 184.51.126.168 A 184.51.126.138 A 184.51.126.169 A 184.51.126.155 A 184.51.126.136 A 184.51.126.178 A 184.51.126.146
+
+Frame 2709: 323 bytes on wire (2584 bits), 323 bytes captured (2584 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 48563 (48563)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2834 9.335778000    129.49.194.114        129.49.7.170          DNS      85     Standard query 0xe8a9  A eyygffckxy.stonybrook.edu
+
+Frame 2834: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 60951 (60951), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2835 9.336118000    129.49.194.114        129.49.7.170          DNS      86     Standard query 0x1dca  A xsoyuzhkhgv.stonybrook.edu
+
+Frame 2835: 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 18142 (18142), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2836 9.336251000    129.49.194.114        129.49.7.170          DNS      83     Standard query 0x4c80  A xcmfphoc.stonybrook.edu
+
+Frame 2836: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 55034 (55034), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2837 9.337316000    129.49.7.170          129.49.194.114        DNS      136    Standard query response 0xe8a9 No such name
+
+Frame 2837: 136 bytes on wire (1088 bits), 136 bytes captured (1088 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 60951 (60951)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2838 9.339656000    129.49.194.114        129.49.7.170          DNS      85     Standard query 0xfcb2  A eyygffckxy.stonybrook.edu
+
+Frame 2838: 85 bytes on wire (680 bits), 85 bytes captured (680 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: interwise (7778), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2839 9.340677000    129.49.7.170          129.49.194.114        DNS      137    Standard query response 0x1dca No such name
+
+Frame 2839: 137 bytes on wire (1096 bits), 137 bytes captured (1096 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 18142 (18142)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2840 9.341366000    129.49.194.114        129.49.7.170          DNS      86     Standard query 0x6d41  A xsoyuzhkhgv.stonybrook.edu
+
+Frame 2840: 86 bytes on wire (688 bits), 86 bytes captured (688 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 25639 (25639), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2841 9.345638000    129.49.7.170          129.49.194.114        DNS      134    Standard query response 0x4c80 No such name
+
+Frame 2841: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 55034 (55034)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2842 9.345659000    129.49.7.170          129.49.194.114        DNS      136    Standard query response 0xfcb2 No such name
+
+Frame 2842: 136 bytes on wire (1088 bits), 136 bytes captured (1088 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: interwise (7778)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2843 9.345670000    129.49.7.170          129.49.194.114        DNS      137    Standard query response 0x6d41 No such name
+
+Frame 2843: 137 bytes on wire (1096 bits), 137 bytes captured (1096 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 25639 (25639)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2844 9.345901000    129.49.194.114        129.49.7.170          DNS      71     Standard query 0x4e42  A xsoyuzhkhgv
+
+Frame 2844: 71 bytes on wire (568 bits), 71 bytes captured (568 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 51115 (51115), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2845 9.345941000    129.49.194.114        129.49.7.170          DNS      70     Standard query 0x1ebe  A eyygffckxy
+
+Frame 2845: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 38336 (38336), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2846 9.346302000    129.49.194.114        129.49.7.170          DNS      83     Standard query 0x773e  A xcmfphoc.stonybrook.edu
+
+Frame 2846: 83 bytes on wire (664 bits), 83 bytes captured (664 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 26701 (26701), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2856 9.349036000    129.49.7.170          129.49.194.114        DNS      134    Standard query response 0x773e No such name
+
+Frame 2856: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 26701 (26701)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2857 9.349462000    129.49.194.114        129.49.7.170          DNS      68     Standard query 0xc62f  A xcmfphoc
+
+Frame 2857: 68 bytes on wire (544 bits), 68 bytes captured (544 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 18057 (18057), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2867 9.354737000    129.49.7.170          129.49.194.114        DNS      146    Standard query response 0x4e42 No such name
+
+Frame 2867: 146 bytes on wire (1168 bits), 146 bytes captured (1168 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 51115 (51115)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2868 9.354755000    129.49.7.170          129.49.194.114        DNS      145    Standard query response 0x1ebe No such name
+
+Frame 2868: 145 bytes on wire (1160 bits), 145 bytes captured (1160 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 38336 (38336)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   2949 9.459916000    129.49.7.170          129.49.194.114        DNS      143    Standard query response 0xc62f No such name
+
+Frame 2949: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 18057 (18057)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3255 11.021761000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0xeca4  A www.youtube.com
+
+Frame 3255: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 36767 (36767), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3256 11.023375000   129.49.7.170          129.49.194.114        DNS      285    Standard query response 0xeca4  CNAME youtube-ui.l.google.com A 74.125.226.2 A 74.125.226.6 A 74.125.226.9 A 74.125.226.0 A 74.125.226.5 A 74.125.226.1 A 74.125.226.14 A 74.125.226.8 A 74.125.226.3 A 74.125.226.7 A 74.125.226.4
+
+Frame 3256: 285 bytes on wire (2280 bits), 285 bytes captured (2280 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 36767 (36767)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3268 11.120958000   129.49.194.114        129.49.7.170          DNS      79     Standard query 0x5b75  A accounts.google.com
+
+Frame 3268: 79 bytes on wire (632 bits), 79 bytes captured (632 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 17929 (17929), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3269 11.121123000   129.49.194.114        129.49.7.170          DNS      78     Standard query 0x4cfa  A ad.doubleclick.net
+
+Frame 3269: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 48105 (48105), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3270 11.121327000   129.49.194.114        129.49.7.170          DNS      79     Standard query 0xcdd7  A clients6.google.com
+
+Frame 3270: 79 bytes on wire (632 bits), 79 bytes captured (632 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 5381 (5381), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3271 11.121482000   129.49.194.114        129.49.7.170          DNS      73     Standard query 0x7e00  A gg.google.com
+
+Frame 3271: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 25462 (25462), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3272 11.121630000   129.49.194.114        129.49.7.170          DNS      71     Standard query 0xa3b5  A i.ytimg.com
+
+Frame 3272: 71 bytes on wire (568 bits), 71 bytes captured (568 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 65386 (65386), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3273 11.121818000   129.49.194.114        129.49.7.170          DNS      71     Standard query 0x1186  A s.ytimg.com
+
+Frame 3273: 71 bytes on wire (568 bits), 71 bytes captured (568 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 33936 (33936), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3275 11.124586000   129.49.7.170          129.49.194.114        DNS      120    Standard query response 0x5b75  CNAME accounts.l.google.com A 216.58.217.109
+
+Frame 3275: 120 bytes on wire (960 bits), 120 bytes captured (960 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 17929 (17929)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3276 11.124602000   129.49.7.170          129.49.194.114        DNS      131    Standard query response 0x4cfa  CNAME dart.l.doubleclick.net A 74.125.226.28 A 74.125.226.27
+
+Frame 3276: 131 bytes on wire (1048 bits), 131 bytes captured (1048 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 48105 (48105)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3277 11.124607000   129.49.7.170          129.49.194.114        DNS      279    Standard query response 0xcdd7  CNAME clients.l.google.com A 74.125.226.8 A 74.125.226.2 A 74.125.226.0 A 74.125.226.9 A 74.125.226.1 A 74.125.226.4 A 74.125.226.7 A 74.125.226.14 A 74.125.226.3 A 74.125.226.6 A 74.125.226.5
+
+Frame 3277: 279 bytes on wire (2232 bits), 279 bytes captured (2232 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 5381 (5381)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3278 11.124622000   129.49.7.170          129.49.194.114        DNS      249    Standard query response 0x7e00  A 74.125.226.9 A 74.125.226.7 A 74.125.226.4 A 74.125.226.3 A 74.125.226.6 A 74.125.226.14 A 74.125.226.0 A 74.125.226.5 A 74.125.226.2 A 74.125.226.1 A 74.125.226.8
+
+Frame 3278: 249 bytes on wire (1992 bits), 249 bytes captured (1992 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 25462 (25462)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3279 11.124800000   129.49.194.114        129.49.7.170          DNS      73     Standard query 0xac56  A yt3.ggpht.com
+
+Frame 3279: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 5810 (5810), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3283 11.124976000   129.49.7.170          129.49.194.114        DNS      276    Standard query response 0xa3b5  CNAME ytimg.l.google.com A 74.125.228.232 A 74.125.228.228 A 74.125.228.224 A 74.125.228.229 A 74.125.228.230 A 74.125.228.227 A 74.125.228.233 A 74.125.228.226 A 74.125.228.238 A 74.125.228.225 A 74.125.228.231
+
+Frame 3283: 276 bytes on wire (2208 bits), 276 bytes captured (2208 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 65386 (65386)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3286 11.126971000   129.49.7.170          129.49.194.114        DNS      279    Standard query response 0x1186  CNAME ytstatic.l.google.com A 74.125.226.161 A 74.125.226.169 A 74.125.226.174 A 74.125.226.166 A 74.125.226.160 A 74.125.226.163 A 74.125.226.162 A 74.125.226.164 A 74.125.226.168 A 74.125.226.165 A 74.125.226.167
+
+Frame 3286: 279 bytes on wire (2232 bits), 279 bytes captured (2232 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 33936 (33936)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   3287 11.126985000   129.49.7.170          129.49.194.114        DNS      166    Standard query response 0xac56  CNAME photos-ugc.l.googleusercontent.com A 74.125.226.12 A 74.125.226.10 A 74.125.226.11
+
+Frame 3287: 166 bytes on wire (1328 bits), 166 bytes captured (1328 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 5810 (5810)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4046 13.744216000   129.49.194.114        129.49.7.170          DNS      87     Standard query 0x6fc8  A oauth.googleusercontent.com
+
+Frame 4046: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 15276 (15276), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4047 13.750316000   129.49.7.170          129.49.194.114        DNS      164    Standard query response 0x6fc8  CNAME googlehosted.l.googleusercontent.com A 74.125.226.44 A 74.125.226.42 A 74.125.226.43
+
+Frame 4047: 164 bytes on wire (1312 bits), 164 bytes captured (1312 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 15276 (15276)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4251 14.511929000   129.49.194.114        129.49.7.170          DNS      73     Standard query 0xf975  A www.yahoo.com
+
+Frame 4251: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 14529 (14529), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4252 14.512351000   129.49.194.114        129.49.7.170          DNS      87     Standard query 0xb493  A ci.beap.ad.yieldmanager.net
+
+Frame 4252: 87 bytes on wire (696 bits), 87 bytes captured (696 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 24394 (24394), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4253 14.512496000   129.49.194.114        129.49.7.170          DNS      84     Standard query 0xbca9  A clicks.beap.bc.yahoo.com
+
+Frame 4253: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: dddp (9131), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4254 14.512836000   129.49.194.114        129.49.7.170          DNS      78     Standard query 0xe3bd  A pr.comet.yahoo.com
+
+Frame 4254: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 11173 (11173), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4255 14.513003000   129.49.194.114        129.49.7.170          DNS      70     Standard query 0xbc3f  A s.yimg.com
+
+Frame 4255: 70 bytes on wire (560 bits), 70 bytes captured (560 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 61947 (61947), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4256 14.513074000   129.49.194.114        129.49.7.170          DNS      84     Standard query 0x0b5c  A sb.scorecardresearch.com
+
+Frame 4256: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 43146 (43146), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4257 14.514405000   129.49.7.170          129.49.194.114        DNS      132    Standard query response 0xf975  CNAME fd-fp3.wg1.b.yahoo.com A 98.139.183.24 A 98.139.180.149
+
+Frame 4257: 132 bytes on wire (1056 bits), 132 bytes captured (1056 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 14529 (14529)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4259 14.514990000   129.49.7.170          129.49.194.114        DNS      144    Standard query response 0xb493  CNAME beap-aik2.adx.ysm.yahoodns.net A 98.139.225.13
+
+Frame 4259: 144 bytes on wire (1152 bits), 144 bytes captured (1152 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 24394 (24394)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4260 14.515683000   129.49.7.170          129.49.194.114        DNS      166    Standard query response 0xbca9  CNAME beapcsc1.ysm.yahoodns.net CNAME any-beapcsc1.ysm.yahoodns.net A 76.13.28.70
+
+Frame 4260: 166 bytes on wire (1328 bits), 166 bytes captured (1328 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: dddp (9131)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4261 14.522428000   129.49.7.170          129.49.194.114        DNS      137    Standard query response 0xbc3f  CNAME s.gycs.b.yahoodns.net A 206.190.56.190 A 206.190.56.191
+
+Frame 4261: 137 bytes on wire (1096 bits), 137 bytes captured (1096 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 61947 (61947)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4262 14.522451000   129.49.7.170          129.49.194.114        DNS      176    Standard query response 0xe3bd  CNAME comet.yahoo.pr.g01.yahoodns.net CNAME any-comet.yahoo.pr.a01.yahoodns.net A 66.196.116.112
+
+Frame 4262: 176 bytes on wire (1408 bits), 176 bytes captured (1408 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 11173 (11173)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4263 14.522457000   129.49.7.170          129.49.194.114        DNS      184    Standard query response 0x0b5c  CNAME sb.scorecardresearch.com.edgekey.net CNAME e2799.e7.akamaiedge.net A 23.65.251.61
+
+Frame 4263: 184 bytes on wire (1472 bits), 184 bytes captured (1472 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 43146 (43146)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4344 14.761964000   129.49.194.114        129.49.7.170          DNS      81     Standard query 0x7bcf  A csc.beap.bc.yahoo.com
+
+Frame 4344: 81 bytes on wire (648 bits), 81 bytes captured (648 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 6264 (6264), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4345 14.762032000   129.49.194.114        129.49.7.170          DNS      79     Standard query 0xed6d  A geo.query.yahoo.com
+
+Frame 4345: 79 bytes on wire (632 bits), 79 bytes captured (632 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 16426 (16426), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4346 14.762170000   129.49.194.114        129.49.7.170          DNS      81     Standard query 0xdb68  A y.analytics.yahoo.com
+
+Frame 4346: 81 bytes on wire (648 bits), 81 bytes captured (648 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 28928 (28928), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4347 14.764115000   129.49.7.170          129.49.194.114        DNS      163    Standard query response 0x7bcf  CNAME beapcsc1.ysm.yahoodns.net CNAME any-beapcsc1.ysm.yahoodns.net A 76.13.28.70
+
+Frame 4347: 163 bytes on wire (1304 bits), 163 bytes captured (1304 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 6264 (6264)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4348 14.764144000   129.49.7.170          129.49.194.114        DNS      195    Standard query response 0xed6d  CNAME global-cache.internal.query.g03.yahoodns.net CNAME us-cache.internal.query.a01.yahoodns.net A 98.137.201.232
+
+Frame 4348: 195 bytes on wire (1560 bits), 195 bytes captured (1560 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 16426 (16426)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4349 14.764816000   129.49.7.170          129.49.194.114        DNS      132    Standard query response 0xdb68  CNAME y.it.a03.yahoodns.net A 98.139.225.23
+
+Frame 4349: 132 bytes on wire (1056 bits), 132 bytes captured (1056 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 28928 (28928)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4352 14.773380000   129.49.194.114        129.49.7.170          DNS      74     Standard query 0xd446  A hsrd.yahoo.com
+
+Frame 4352: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 33974 (33974), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4353 14.775598000   129.49.7.170          129.49.194.114        DNS      149    Standard query response 0xd446  CNAME eu-hrbw1.fp.wa1.b.yahoo.com CNAME any-eu-hrbw1.fp.wa1.b.yahoo.com A 98.139.180.157
+
+Frame 4353: 149 bytes on wire (1192 bits), 149 bytes captured (1192 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 33974 (33974)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4430 14.928165000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0x2c86  A login.yahoo.com
+
+Frame 4430: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 16224 (16224), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4431 14.928207000   129.49.194.114        129.49.7.170          DNS      74     Standard query 0xb6d6  A mail.yahoo.com
+
+Frame 4431: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 63149 (63149), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4484 14.974098000   129.49.7.170          129.49.194.114        DNS      196    Standard query response 0x2c86  CNAME ats.login.lgg1.b.yahoo.com CNAME ats.member.g02.yahoodns.net CNAME any-ats.member.a02.yahoodns.net A 98.139.21.169
+
+Frame 4484: 196 bytes on wire (1568 bits), 196 bytes captured (1568 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 16224 (16224)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4485 14.976205000   129.49.7.170          129.49.194.114        DNS      215    Standard query response 0xb6d6  CNAME login.yahoo.com CNAME ats.login.lgg1.b.yahoo.com CNAME ats.member.g02.yahoodns.net CNAME any-ats.member.a02.yahoodns.net A 98.139.21.169
+
+Frame 4485: 215 bytes on wire (1720 bits), 215 bytes captured (1720 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 63149 (63149)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4545 15.013592000   129.49.194.114        129.49.7.170          DNS      81     Standard query 0xcd5b  A advertising.yahoo.com
+
+Frame 4545: 81 bytes on wire (648 bits), 81 bytes captured (648 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 56306 (56306), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4546 15.013803000   129.49.194.114        129.49.7.170          DNS      77     Standard query 0x0f90  A careers.yahoo.com
+
+Frame 4546: 77 bytes on wire (616 bits), 77 bytes captured (616 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: rsqlserver (4430), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4547 15.013966000   129.49.194.114        129.49.7.170          DNS      78     Standard query 0xcb6c  A feedback.yahoo.com
+
+Frame 4547: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 32003 (32003), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4549 15.017723000   129.49.7.170          129.49.194.114        DNS      221    Standard query response 0x0f90  CNAME geoycpi-uno-deluxe.gycpi.b.yahoodns.net CNAME geoycpi-uno.gycpi.b.yahoodns.net CNAME any-ycpi-uno.aycpi.b.yahoodns.net A 216.115.101.178 A 216.115.101.179
+
+Frame 4549: 221 bytes on wire (1768 bits), 221 bytes captured (1768 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: rsqlserver (4430)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4550 15.017824000   129.49.194.114        129.49.7.170          DNS      84     Standard query 0x03f9  A 6-edge-chat.facebook.com
+
+Frame 4550: 84 bytes on wire (672 bits), 84 bytes captured (672 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 42764 (42764), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4551 15.018802000   129.49.7.170          129.49.194.114        DNS      156    Standard query response 0xcb6c  CNAME src2.yahoo.com CNAME any-src.san2.a01.yahoodns.net A 74.6.50.25
+
+Frame 4551: 156 bytes on wire (1248 bits), 156 bytes captured (1248 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 32003 (32003)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4552 15.019985000   129.49.7.170          129.49.194.114        DNS      124    Standard query response 0x03f9  CNAME star.c10r.facebook.com A 31.13.71.1
+
+Frame 4552: 124 bytes on wire (992 bits), 124 bytes captured (992 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 42764 (42764)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4553 15.020633000   129.49.194.114        129.49.7.170          DNS      74     Standard query 0xa7f6  A help.yahoo.com
+
+Frame 4553: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 30014 (30014), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4554 15.021381000   129.49.194.114        129.49.7.170          DNS      74     Standard query 0x85cd  A info.yahoo.com
+
+Frame 4554: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 54404 (54404), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4555 15.023061000   129.49.7.170          129.49.194.114        DNS      185    Standard query response 0xa7f6  CNAME geoycpi-uno.gycpi.b.yahoodns.net CNAME any-ycpi-uno.aycpi.b.yahoodns.net A 216.115.101.179 A 216.115.101.178
+
+Frame 4555: 185 bytes on wire (1480 bits), 185 bytes captured (1480 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 30014 (30014)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4558 15.034892000   129.49.7.170          129.49.194.114        DNS      227    Standard query response 0xcd5b  CNAME fd-geoycpi-uno.gycpi.b.yahoodns.net CNAME ds-geoycpi-uno.gycpi.b.yahoodns.net CNAME ds-any-ycpi-uno.aycpi.b.yahoodns.net A 216.115.101.178 A 216.115.101.179
+
+Frame 4558: 227 bytes on wire (1816 bits), 227 bytes captured (1816 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 56306 (56306)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4559 15.034916000   129.49.7.170          129.49.194.114        DNS      263    Standard query response 0x85cd  CNAME fd-geoycpi-uno-deluxe.gycpi.b.yahoodns.net CNAME ds-geoycpi-uno-deluxe.gycpi.b.yahoodns.net CNAME ds-geoycpi-uno.gycpi.b.yahoodns.net CNAME ds-any-ycpi-uno.aycpi.b.yahoodns.net A 216.115.101.178 A 216.115.101.179
+
+Frame 4559: 263 bytes on wire (2104 bits), 263 bytes captured (2104 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 54404 (54404)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4962 17.524769000   129.49.194.114        129.49.7.170          DNS      73     Standard query 0xc034  A www.baidu.com
+
+Frame 4962: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 14362 (14362), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4963 17.525708000   129.49.194.114        129.49.7.170          DNS      78     Standard query 0xe1be  A passport.baidu.com
+
+Frame 4963: 78 bytes on wire (624 bits), 78 bytes captured (624 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 24406 (24406), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4964 17.526601000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0x5d1b  A s1.bdstatic.com
+
+Frame 4964: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 29248 (29248), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4965 17.527671000   129.49.7.170          129.49.194.114        DNS      116    Standard query response 0xc034  CNAME www.a.shifen.com A 180.76.3.151
+
+Frame 4965: 116 bytes on wire (928 bits), 116 bytes captured (928 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 14362 (14362)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4966 17.533156000   129.49.194.114        129.49.7.170          DNS      80     Standard query 0x32f3  A suggestion.baidu.com
+
+Frame 4966: 80 bytes on wire (640 bits), 80 bytes captured (640 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 63477 (63477), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4970 17.534999000   129.49.7.170          129.49.194.114        DNS      130    Standard query response 0x32f3  CNAME suggestion.a.shifen.com A 123.125.114.101
+
+Frame 4970: 130 bytes on wire (1040 bits), 130 bytes captured (1040 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 63477 (63477)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4983 17.756997000   129.49.7.170          129.49.194.114        DNS      126    Standard query response 0xe1be  CNAME passport.n.shifen.com A 180.76.2.35
+
+Frame 4983: 126 bytes on wire (1008 bits), 126 bytes captured (1008 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 24406 (24406)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   4991 17.903238000   129.49.7.170          129.49.194.114        DNS      155    Standard query response 0x5d1b  CNAME wwwbaidu.jomodns.com CNAME wwwstatic1.wshifen.com A 63.217.158.168
+
+Frame 4991: 155 bytes on wire (1240 bits), 155 bytes captured (1240 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 29248 (29248)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5072 18.119813000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0xdf28  A b1.bdstatic.com
+
+Frame 5072: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 22636 (22636), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5073 18.120011000   129.49.194.114        129.49.7.170          DNS      72     Standard query 0x2a04  A t1.baidu.com
+
+Frame 5073: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 62740 (62740), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5074 18.120022000   129.49.194.114        8.8.8.8               DNS      72     Standard query 0x2a04  A t1.baidu.com
+
+Frame 5074: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 8.8.8.8 (8.8.8.8)
+User Datagram Protocol, Src Port: 62740 (62740), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5075 18.120148000   129.49.194.114        129.49.7.170          DNS      73     Standard query 0x1718  A t10.baidu.com
+
+Frame 5075: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 36758 (36758), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5076 18.124024000   129.49.7.170          129.49.194.114        DNS      149    Standard query response 0xdf28  CNAME base64.jomodns.com CNAME base64.wshifen.com A 63.217.158.147
+
+Frame 5076: 149 bytes on wire (1192 bits), 149 bytes captured (1192 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 22636 (22636)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5077 18.124047000   129.49.7.170          129.49.194.114        DNS      143    Standard query response 0x1718  CNAME image.jomodns.com CNAME t1.n.shifen.com A 180.97.33.30
+
+Frame 5077: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 36758 (36758)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5078 18.124348000   129.49.194.114        129.49.7.170          DNS      73     Standard query 0xd88a  A t11.baidu.com
+
+Frame 5078: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 36470 (36470), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5079 18.124525000   129.49.194.114        129.49.7.170          DNS      73     Standard query 0x8ca5  A t12.baidu.com
+
+Frame 5079: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 18307 (18307), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5080 18.126202000   129.49.7.170          129.49.194.114        DNS      143    Standard query response 0xd88a  CNAME image.jomodns.com CNAME t1.n.shifen.com A 180.97.33.30
+
+Frame 5080: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 36470 (36470)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5081 18.126232000   129.49.7.170          129.49.194.114        DNS      143    Standard query response 0x8ca5  CNAME image.jomodns.com CNAME t1.n.shifen.com A 180.97.33.30
+
+Frame 5081: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 18307 (18307)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5082 18.126559000   129.49.194.114        129.49.7.170          DNS      72     Standard query 0x85ff  A t2.baidu.com
+
+Frame 5082: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 55390 (55390), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5083 18.126747000   129.49.194.114        129.49.7.170          DNS      72     Standard query 0x1108  A t3.baidu.com
+
+Frame 5083: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 10940 (10940), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5111 18.363477000   129.49.7.170          129.49.194.114        DNS      165    Standard query response 0x2a04  CNAME imagecdn.baidu.com CNAME image.jomodns.com CNAME t1.n.shifen.com A 180.97.33.30
+
+Frame 5111: 165 bytes on wire (1320 bits), 165 bytes captured (1320 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 62740 (62740)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5112 18.363814000   129.49.194.114        129.49.7.170          DNS      74     Standard query 0xda6e  A home.baidu.com
+
+Frame 5112: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 49218 (49218), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5114 18.370203000   129.49.7.170          129.49.194.114        DNS      165    Standard query response 0x85ff  CNAME imagecdn.baidu.com CNAME image.jomodns.com CNAME t1.n.shifen.com A 180.97.33.30
+
+Frame 5114: 165 bytes on wire (1320 bits), 165 bytes captured (1320 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 55390 (55390)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5115 18.370246000   129.49.7.170          129.49.194.114        DNS      165    Standard query response 0x1108  CNAME imagecdn.baidu.com CNAME image.jomodns.com CNAME t1.n.shifen.com A 180.97.33.30
+
+Frame 5115: 165 bytes on wire (1320 bits), 165 bytes captured (1320 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 10940 (10940)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5116 18.370580000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0xd145  A image.baidu.com
+
+Frame 5116: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 13265 (13265), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5117 18.370700000   129.49.194.114        129.49.7.170          DNS      72     Standard query 0x74b6  A ir.baidu.com
+
+Frame 5117: 72 bytes on wire (576 bits), 72 bytes captured (576 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 32704 (32704), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5118 18.372602000   129.49.7.170          129.49.194.114        DNS      211    Standard query response 0x74b6  CNAME phx.corporate-ir.net CNAME www.corporate-ir.net.edgesuite.net CNAME a121.g.akamai.net A 129.49.1.70 A 129.49.1.73
+
+Frame 5118: 211 bytes on wire (1688 bits), 211 bytes captured (1688 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 32704 (32704)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5119 18.372845000   129.49.194.114        129.49.7.170          DNS      73     Standard query 0xe3c9  A map.baidu.com
+
+Frame 5119: 73 bytes on wire (584 bits), 73 bytes captured (584 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 19022 (19022), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5129 18.586913000   129.49.7.170          129.49.194.114        DNS      118    Standard query response 0xda6e  CNAME bapp.n.shifen.com A 123.125.114.197
+
+Frame 5129: 118 bytes on wire (944 bits), 118 bytes captured (944 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 49218 (49218)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5130 18.587259000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0xb43f  A music.baidu.com
+
+Frame 5130: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 59938 (59938), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5132 18.594669000   129.49.7.170          129.49.194.114        DNS      120    Standard query response 0xd145  CNAME image.n.shifen.com A 180.76.3.18
+
+Frame 5132: 120 bytes on wire (960 bits), 120 bytes captured (960 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 13265 (13265)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5134 18.594947000   129.49.194.114        129.49.7.170          DNS      74     Standard query 0xa648  A news.baidu.com
+
+Frame 5134: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 29135 (29135), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5140 18.601568000   129.49.7.170          129.49.194.114        DNS      116    Standard query response 0xe3c9  CNAME map.n.shifen.com A 180.76.2.39
+
+Frame 5140: 116 bytes on wire (928 bits), 116 bytes captured (928 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 19022 (19022)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5141 18.602095000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0xd749  A tieba.baidu.com
+
+Frame 5141: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 21055 (21055), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5142 18.608546000   8.8.8.8               129.49.194.114        DNS      165    Standard query response 0x2a04  CNAME imagecdn.baidu.com CNAME image.jomodns.com CNAME t1.n.shifen.com A 180.97.33.30
+
+Frame 5142: 165 bytes on wire (1320 bits), 165 bytes captured (1320 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 8.8.8.8 (8.8.8.8), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 62740 (62740)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5143 18.608570000   129.49.194.114        8.8.8.8               ICMP     193    Destination unreachable (Port unreachable)
+
+Frame 5143: 193 bytes on wire (1544 bits), 193 bytes captured (1544 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 8.8.8.8 (8.8.8.8)
+Internet Control Message Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+   5173 18.864679000   129.49.7.170          129.49.194.114        DNS      151    Standard query response 0xd749  CNAME post.n.shifen.com A 180.76.3.18 A 180.76.2.36 A 180.76.2.37
+
+Frame 5173: 151 bytes on wire (1208 bits), 151 bytes captured (1208 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 21055 (21055)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5174 18.865301000   129.49.194.114        129.49.7.170          DNS      71     Standard query 0x880f  A v.baidu.com
+
+Frame 5174: 71 bytes on wire (568 bits), 71 bytes captured (568 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 18562 (18562), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5175 18.886522000   129.49.7.170          129.49.194.114        DNS      134    Standard query response 0xa648  CNAME news.n.shifen.com A 180.149.131.76 A 180.149.132.203
+
+Frame 5175: 134 bytes on wire (1072 bits), 134 bytes captured (1072 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 29135 (29135)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5176 18.886805000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0x3445  A wenku.baidu.com
+
+Frame 5176: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 7301 (7301), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5177 18.888710000   129.49.7.170          129.49.194.114        DNS      120    Standard query response 0x3445  CNAME wenku.n.shifen.com A 180.76.2.36
+
+Frame 5177: 120 bytes on wire (960 bits), 120 bytes captured (960 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 7301 (7301)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5178 18.889354000   129.49.194.114        129.49.7.170          DNS      74     Standard query 0x0d9f  A www.hao123.com
+
+Frame 5178: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 16615 (16615), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5182 18.933769000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0xd9db  A formi.baidu.com
+
+Frame 5182: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 40528 (40528), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5184 18.937317000   129.49.7.170          129.49.194.114        DNS      107    Standard query response 0xd9db  A 180.149.131.55 A 61.135.169.120
+
+Frame 5184: 107 bytes on wire (856 bits), 107 bytes captured (856 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 40528 (40528)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5207 19.090558000   129.49.7.170          129.49.194.114        DNS      116    Standard query response 0x880f  CNAME video.n.shifen.com A 180.76.2.36
+
+Frame 5207: 116 bytes on wire (928 bits), 116 bytes captured (928 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 18562 (18562)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5208 19.090905000   129.49.194.114        129.49.7.170          DNS      76     Standard query 0x009b  A zhidao.baidu.com
+
+Frame 5208: 76 bytes on wire (608 bits), 76 bytes captured (608 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 29412 (29412), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5498 19.319090000   129.49.7.170          129.49.194.114        DNS      141    Standard query response 0x009b  CNAME iknow.baidu.com CNAME iknow.n.shifen.com A 180.76.2.36
+
+Frame 5498: 141 bytes on wire (1128 bits), 141 bytes captured (1128 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 29412 (29412)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5603 19.559794000   129.49.7.170          129.49.194.114        DNS      191    Standard query response 0x0d9f  CNAME hao123.n.shifen.com CNAME hao123.g.shifen.com A 61.135.185.29 A 220.181.163.22 A 119.75.219.38 A 123.125.112.45
+
+Frame 5603: 191 bytes on wire (1528 bits), 191 bytes captured (1528 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 16615 (16615)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5604 19.594842000   129.49.194.114        129.49.7.170          DNS      75     Standard query 0x3998  A music.baidu.com
+
+Frame 5604: 75 bytes on wire (600 bits), 75 bytes captured (600 bits) on interface 0
+Ethernet II, Src: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f), Dst: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4)
+Internet Protocol Version 4, Src: 129.49.194.114 (129.49.194.114), Dst: 129.49.7.170 (129.49.7.170)
+User Datagram Protocol, Src Port: 17722 (17722), Dst Port: domain (53)
+Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5610 19.613404000   129.49.7.170          129.49.194.114        DNS      139    Standard query response 0x3998  CNAME api.ting.n.shifen.com A 180.149.133.171 A 180.149.132.184
+
+Frame 5610: 139 bytes on wire (1112 bits), 139 bytes captured (1112 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 17722 (17722)
+Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+   5611 19.613418000   129.49.7.170          129.49.194.114        DNS      139    Standard query response 0xb43f  CNAME api.ting.n.shifen.com A 180.149.133.171 A 180.149.132.184
+
+Frame 5611: 139 bytes on wire (1112 bits), 139 bytes captured (1112 bits) on interface 0
+Ethernet II, Src: HewlettP_c9:96:a4 (d0:7e:28:c9:96:a4), Dst: 30:10:b3:12:c8:2f (30:10:b3:12:c8:2f)
+Internet Protocol Version 4, Src: 129.49.7.170 (129.49.7.170), Dst: 129.49.194.114 (129.49.194.114)
+User Datagram Protocol, Src Port: domain (53), Dst Port: 59938 (59938)
+Domain Name System (response)

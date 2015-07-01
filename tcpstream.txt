@@ -1,0 +1,85 @@
+<begin: TCP Flow 1
+# packets sent by the sender: 21
+# packets sent by the receiver: 33
+# bytes sent by the sender: 469
+# bytes receiver by the receiver: 42964
+# ACKs sent by the sender: 19
+# ACKs sent by the receiver: 28
+Largest congestion window size at sender: 469
+Average congestion window size at sender: 469
+Average receiver window size: 279
+# retransmissions: 0
+# Out of Order packets: 0
+Throughput: 60839.1631666
+Goodput: 56196.7498313
+END FLOW>
+
+
+<begin: TCP Flow 2
+# packets sent by the sender: 5
+# packets sent by the receiver: 4
+# bytes sent by the sender: 506
+# bytes receiver by the receiver: 293
+# ACKs sent by the sender: 3
+# ACKs sent by the receiver: 1
+Largest congestion window size at sender: 506
+Average congestion window size at sender: 506
+Average receiver window size: 3860
+# retransmissions: 0
+# Out of Order packets: 0
+Throughput: 3070.93030891
+Goodput: 1736.49916265
+END FLOW>
+
+
+<begin: TCP Flow 3
+# packets sent by the sender: 6
+# packets sent by the receiver: 5
+# bytes sent by the sender: 1052
+# bytes receiver by the receiver: 562
+# ACKs sent by the sender: 3
+# ACKs sent by the receiver: 2
+Largest congestion window size at sender: 557
+Average congestion window size at sender: 526
+Average receiver window size: 4004
+# retransmissions: 0
+# Out of Order packets: 0
+Throughput: 4387.29477654
+Goodput: 3000.46346158
+END FLOW>
+
+
+<begin: TCP Flow 4
+# packets sent by the sender: 7
+# packets sent by the receiver: 6
+# bytes sent by the sender: 1057
+# bytes receiver by the receiver: 4081
+# ACKs sent by the sender: 4
+# ACKs sent by the receiver: 3
+Largest congestion window size at sender: 551
+Average congestion window size at sender: 528
+Average receiver window size: 3752
+# retransmissions: 0
+# Out of Order packets: 0
+Throughput: 17387.0817656
+Goodput: 14849.5389148
+END FLOW>
+
+
+<begin: TCP Flow 5
+# packets sent by the sender: 6
+# packets sent by the receiver: 4
+# bytes sent by the sender: 1036
+# bytes receiver by the receiver: 539
+# ACKs sent by the sender: 3
+# ACKs sent by the receiver: 1
+Largest congestion window size at sender: 531
+Average congestion window size at sender: 518
+Average receiver window size: 3994
+# retransmissions: 0
+# Out of Order packets: 0
+Throughput: 6496.27594638
+Goodput: 4537.3102508
+END FLOW>
+
+
